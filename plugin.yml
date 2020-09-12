@@ -2,7 +2,7 @@ name: Home
 main: home\Main
 api: [3.0.0, 4.0.0]
 version: 0.1
-author: btpe
+author: bankrtdv
 
 commands:
  home:
