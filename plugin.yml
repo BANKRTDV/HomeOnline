@@ -1,0 +1,9 @@
+name: Home
+main: home\Main
+api: [3.0.0, 4.0.0]
+version: 0.1
+author: btpe
+
+commands:
+ home:
+  description: เปีดหน้าต่าง Home
